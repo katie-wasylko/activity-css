@@ -1,9 +1,11 @@
-/* CSS Document */
-
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: 000
+    background-color: #61380B
+}
+
+h1 {
+    color: #000000;
 }
